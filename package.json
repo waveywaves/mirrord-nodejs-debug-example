@@ -1,0 +1,16 @@
+{
+  "name": "node-app",
+  "description": "Nodeapp for CICD test",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "ejs": "^3.1.10",
+    "express": "^4.17.1",
+    "redis": "^4.7.0"
+  },
+
+  "scripts": {
+    "start": "node app.js"
+  }
+}
