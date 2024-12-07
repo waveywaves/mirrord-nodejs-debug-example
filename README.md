@@ -4,6 +4,9 @@
   <a href="https://mirrord.dev">
     <img src="images/mirrord.svg" width="150" alt="mirrord Logo"/>
   </a>
+  <a href="https://nodejs.org/en">
+    <img src="images/nodejs.svg" width="150" alt="Nodejs Logo"/>
+  </a>
 </div>
 
 This is a simple Node.js guestbook application that uses Redis to store and retrieve messages. The application demonstrates:
