@@ -48,7 +48,7 @@ kubectl create -f ./kube
 3. Debug with mirrord:
 
 ```bash
-mirrord exec -t deployment/guestbook go run main.go
+mirrord exec -t deployment/nodejs-guestbook npm start
 ```
 
 The application will be available at http://localhost:3000
