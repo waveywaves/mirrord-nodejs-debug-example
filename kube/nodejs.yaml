@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: node-app
-        image: docker.io/waveywaves/mirrord-nodejs-example:v3
+        image: docker.io/waveywaves/mirrord-nodejs-example:v4
         ports:
         - containerPort: 3000
         env:
